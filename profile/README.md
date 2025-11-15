@@ -12,7 +12,6 @@ The project aims to elevate the CS2 community experience through:
 - Gameplay enhancement systems (ratings, tags, rewards, utilities)  
 - Automated server operations  
 - Clean, consistent JSON-based configuration  
-- Stable DevOps foundation: Pterodactyl, Cloudflare Tunnels, Redis, MariaDB  
 - Multilingual support for global community environments
 
 ## 🤝 Contributing  
